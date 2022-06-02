@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/math-road-map/static/css/main.e6c13ad2.css",
-    "main.js": "/math-road-map/static/js/main.ea06ffdb.js",
+    "main.js": "/math-road-map/static/js/main.a8b8ee83.js",
     "index.html": "/math-road-map/index.html",
     "main.e6c13ad2.css.map": "/math-road-map/static/css/main.e6c13ad2.css.map",
-    "main.ea06ffdb.js.map": "/math-road-map/static/js/main.ea06ffdb.js.map"
+    "main.a8b8ee83.js.map": "/math-road-map/static/js/main.a8b8ee83.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ea06ffdb.js"
+    "static/js/main.a8b8ee83.js"
   ]
 }
