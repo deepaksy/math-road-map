@@ -1,5 +1,5 @@
 import { 
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
   Link,
@@ -15,7 +15,7 @@ function App() {
   return (
     <Router>
       <ToolBar/>
-      <div style={{minHeight:'60px'}}></div>
+      <div style={{minHeight:'56px'}}></div>
       <Routes>
         <Route path='' element={<Navigate to='home'/>}/>
         <Route path='home' element={<HomePage/>}/>
